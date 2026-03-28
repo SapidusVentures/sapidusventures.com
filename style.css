@@ -135,6 +135,17 @@ h2 {
     margin-bottom: 1.5rem;
 }
 
+.legal-disclaimer {
+    text-align: left;
+    max-width: 540px;
+    font-size: 0.95rem;
+    line-height: 1.6;
+    color: #999;
+    border-left: 3px solid #E8B84B;
+    padding-left: 1rem;
+    margin-bottom: 1.5rem;
+}
+
 .legal-text {
     text-align: left;
     max-width: 540px;
