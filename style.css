@@ -99,6 +99,35 @@ h1 {
     background: #d4a63d;
 }
 
+/* Recipe page */
+h2 {
+    color: #E8B84B;
+    font-size: 1.6rem;
+    font-weight: 600;
+    margin-top: 1.5rem;
+    margin-bottom: 0.75rem;
+}
+
+.recipe-list {
+    list-style: none;
+    text-align: left;
+    line-height: 1.9;
+    font-size: 1.05rem;
+}
+
+.recipe-list li::before {
+    content: "\2022";
+    color: #E8B84B;
+    margin-right: 0.5rem;
+}
+
+.recipe-directions {
+    text-align: left;
+    font-size: 1.05rem;
+    line-height: 1.8;
+    margin-bottom: 1rem;
+}
+
 /* Footer */
 footer {
     width: 100%;
